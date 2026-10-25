@@ -1,0 +1,33 @@
+TIME,OBJECTS,ACTION
+
+0-1s, [2 cups, 1 laptop, 1 backpack, 4 chairs] , [standing, touching laptop]
+
+1-2s, [2 cups, 1 laptop, 1 backpack, 4 chairs] , [standing]
+
+2-3s, [2 cups, 1 laptop, 1 backpack, 4 chairs] , [standing]
+
+3-4s, [2 cups, 1 laptop, 1 backpack, 4 chairs] , [standing]
+
+4-5s, [2 cups, 1 laptop, 1 backpack, 4 chairs] , [sitting]
+
+5-6s,  [2 cups, 1 laptop, 1 backpack, 4 chairs] , [sitting, touching laptop]
+
+6-7s, [2 cups, 1 laptop, 1 backpack, 4 chairs] , [sitting, touching laptop]
+
+
+7-8s,  [2 cups, 1 laptop, 1 backpack, 4 chairs] , [sitting, touching laptop]
+
+
+8-9s,  [2 cups, 1 laptop, 1 backpack, 4 chairs] , [sitting, touching laptop]
+
+
+9-10s,  [2 cups, 1 laptop, 1 backpack, 4 chairs] , [sitting, touching laptop]
+
+
+10-11s,  [2 cups, 1 laptop, 1 backpack, 4 chairs] , [sitting, touching laptop]
+
+
+11-12s,  [2 cups, 1 laptop, 1 backpack, 4 chairs] , [sitting, touching laptop]
+
+
+12-13s,  [2 cups, 1 laptop, 1 backpack, 4 chairs] , [sitting, touching laptop]
