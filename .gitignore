@@ -1,1 +1,7 @@
 venv
+*.pt
+*.task
+*.mov
+*.mp4
+output_annotated.mp4
+__pycache__/

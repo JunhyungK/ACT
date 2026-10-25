@@ -1,0 +1,810 @@
+frame,time_s,action,label,object,raw_label,objects_visible,n_wrists,sitting
+1,0.0,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+2,0.017,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+3,0.034,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+4,0.051,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+5,0.068,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+6,0.085,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+7,0.102,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+8,0.12,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+9,0.137,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+10,0.154,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+11,0.171,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+12,0.188,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+13,0.205,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+14,0.222,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+15,0.239,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+16,0.256,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+17,0.273,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+18,0.29,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+19,0.307,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+20,0.324,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+21,0.342,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+22,0.359,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+23,0.376,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+24,0.393,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+25,0.41,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+26,0.427,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+27,0.444,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+28,0.461,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+29,0.478,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+30,0.495,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+31,0.512,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+32,0.529,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+33,0.546,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+34,0.564,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+35,0.581,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+36,0.598,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+37,0.615,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+38,0.632,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+39,0.649,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+40,0.666,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+41,0.683,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+42,0.7,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+43,0.717,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+44,0.734,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+45,0.751,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+46,0.769,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+47,0.786,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+48,0.803,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+49,0.82,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+50,0.837,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+51,0.854,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+52,0.871,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+53,0.888,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+54,0.905,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+55,0.922,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+56,0.939,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+57,0.956,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+58,0.973,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+59,0.991,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+60,1.008,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+61,1.025,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+62,1.042,sitting,sitting,,sitting,"[(1, 'chair'), (2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+63,1.059,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+64,1.076,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+65,1.093,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+66,1.11,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+67,1.127,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+68,1.144,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+69,1.161,sitting,sitting,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,False
+70,1.178,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+71,1.195,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+72,1.213,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+73,1.23,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+74,1.247,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+75,1.264,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+76,1.281,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+77,1.298,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+78,1.315,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+79,1.332,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+80,1.349,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+81,1.366,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+82,1.383,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+83,1.4,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+84,1.417,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+85,1.435,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+86,1.452,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+87,1.469,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+88,1.486,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+89,1.503,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+90,1.52,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+91,1.537,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+92,1.554,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+93,1.571,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+94,1.588,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+95,1.605,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+96,1.622,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+97,1.639,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+98,1.657,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+99,1.674,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+100,1.691,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+101,1.708,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+102,1.725,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+103,1.742,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+104,1.759,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+105,1.776,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+106,1.793,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+107,1.81,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+108,1.827,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+109,1.844,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+110,1.861,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+111,1.879,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+112,1.896,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",2,True
+113,1.913,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+114,1.93,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+115,1.947,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+116,1.964,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+117,1.981,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+118,1.998,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+119,2.015,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+120,2.032,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+121,2.049,sitting,sitting,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+122,2.066,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+123,2.083,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+124,2.101,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+125,2.118,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+126,2.135,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+127,2.152,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+128,2.169,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+129,2.186,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+130,2.203,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+131,2.22,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+132,2.237,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+133,2.254,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+134,2.271,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+135,2.288,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+136,2.306,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+137,2.323,none,none,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+138,2.34,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+139,2.357,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+140,2.374,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+141,2.391,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+142,2.408,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+143,2.425,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+144,2.442,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+145,2.459,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+146,2.476,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+147,2.493,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+148,2.51,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+149,2.528,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+150,2.545,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+151,2.562,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+152,2.579,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+153,2.596,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+154,2.613,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+155,2.63,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+156,2.647,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+157,2.664,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+158,2.681,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+159,2.698,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+160,2.715,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+161,2.732,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+162,2.75,sitting,sitting,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+163,2.767,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+164,2.784,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+165,2.801,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+166,2.818,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+167,2.835,sitting,sitting,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+168,2.852,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+169,2.869,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+170,2.886,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+171,2.903,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+172,2.92,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+173,2.937,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+174,2.954,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+175,2.972,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+176,2.989,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+177,3.006,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+178,3.023,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+179,3.04,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+180,3.057,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+181,3.074,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+182,3.091,sitting,sitting,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+183,3.108,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+184,3.125,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+185,3.142,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+186,3.159,none,none,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+187,3.176,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+188,3.194,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+189,3.211,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+190,3.228,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+191,3.245,none,none,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+192,3.262,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+193,3.279,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+194,3.296,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+195,3.313,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+196,3.33,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+197,3.347,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+198,3.364,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+199,3.381,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+200,3.398,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+201,3.416,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+202,3.433,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+203,3.45,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+204,3.467,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+205,3.484,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+206,3.501,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+207,3.518,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+208,3.535,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+209,3.552,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+210,3.569,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+211,3.586,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+212,3.603,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+213,3.62,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+214,3.638,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+215,3.655,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+216,3.672,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+217,3.689,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+218,3.706,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+219,3.723,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+220,3.74,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+221,3.757,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+222,3.774,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+223,3.791,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+224,3.808,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+225,3.825,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+226,3.843,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+227,3.86,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+228,3.877,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+229,3.894,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+230,3.911,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+231,3.928,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+232,3.945,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+233,3.962,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+234,3.979,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+235,3.996,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+236,4.013,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+237,4.03,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+238,4.047,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+239,4.065,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+240,4.082,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+241,4.099,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+242,4.116,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+243,4.133,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+244,4.15,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+245,4.167,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+246,4.184,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+247,4.201,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+248,4.218,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+249,4.235,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+250,4.252,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+251,4.269,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+252,4.287,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+253,4.304,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+254,4.321,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,True
+255,4.338,sitting,sitting,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+256,4.355,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+257,4.372,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+258,4.389,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+259,4.406,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+260,4.423,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+261,4.44,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+262,4.457,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+263,4.474,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+264,4.491,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+265,4.509,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+266,4.526,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+267,4.543,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+268,4.56,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+269,4.577,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",0,False
+270,4.594,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+271,4.611,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+272,4.628,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+273,4.645,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,False
+274,4.662,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,False
+275,4.679,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",0,False
+276,4.696,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,False
+277,4.713,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",0,False
+278,4.731,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,False
+279,4.748,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,False
+280,4.765,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,False
+281,4.782,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,False
+282,4.799,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,False
+283,4.816,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,False
+284,4.833,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,False
+285,4.85,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,False
+286,4.867,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,False
+287,4.884,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,False
+288,4.901,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,False
+289,4.918,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,False
+290,4.935,none,none,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+291,4.953,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup')]",1,True
+292,4.97,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+293,4.987,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+294,5.004,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+295,5.021,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+296,5.038,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+297,5.055,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+298,5.072,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+299,5.089,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+300,5.106,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+301,5.123,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+302,5.14,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+303,5.157,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+304,5.175,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+305,5.192,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+306,5.209,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+307,5.226,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+308,5.243,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+309,5.26,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+310,5.277,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+311,5.294,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+312,5.311,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+313,5.328,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+314,5.345,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+315,5.362,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+316,5.38,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+317,5.397,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+318,5.414,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,True
+319,5.431,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,True
+320,5.448,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,True
+321,5.465,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (5, 'chair')]",1,True
+322,5.482,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+323,5.499,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+324,5.516,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (5, 'chair')]",1,True
+325,5.533,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+326,5.55,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+327,5.567,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+328,5.584,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+329,5.602,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+330,5.619,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+331,5.636,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+332,5.653,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+333,5.67,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+334,5.687,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+335,5.704,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+336,5.721,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+337,5.738,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+338,5.755,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+339,5.772,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+340,5.789,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+341,5.806,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+342,5.824,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+343,5.841,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+344,5.858,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+345,5.875,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+346,5.892,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+347,5.909,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+348,5.926,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+349,5.943,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+350,5.96,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+351,5.977,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+352,5.994,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+353,6.011,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+354,6.028,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+355,6.046,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+356,6.063,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+357,6.08,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+358,6.097,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+359,6.114,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+360,6.131,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+361,6.148,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+362,6.165,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+363,6.182,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+364,6.199,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+365,6.216,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+366,6.233,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+367,6.25,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+368,6.268,sitting,sitting,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,False
+369,6.285,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,False
+370,6.302,none,none,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+371,6.319,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,True
+372,6.336,sitting,sitting,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,False
+373,6.353,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,False
+374,6.37,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair')]",1,False
+375,6.387,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack')]",1,False
+376,6.404,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,False
+377,6.421,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,False
+378,6.438,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,False
+379,6.455,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,False
+380,6.472,none,none,,reaching for book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,False
+381,6.49,reaching for,reaching for book,book,reaching for book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,False
+382,6.507,reaching for,reaching for book,book,touching book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,False
+383,6.524,touching,touching book,book,touching book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,False
+384,6.541,touching,touching book,book,touching book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,False
+385,6.558,touching,touching book,book,touching book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,False
+386,6.575,touching,touching book,book,touching book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,False
+387,6.592,touching,touching book,book,touching book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,False
+388,6.609,touching,touching book,book,touching book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,False
+389,6.626,touching,touching book,book,touching book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,False
+390,6.643,touching,touching book,book,touching book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,True
+391,6.66,touching,touching book,book,touching book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,True
+392,6.677,touching,touching book,book,touching book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,False
+393,6.694,touching,touching book,book,touching book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,False
+394,6.712,touching,touching book,book,touching book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,False
+395,6.729,touching,touching book,book,touching book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,False
+396,6.746,touching,touching book,book,touching book,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (9, 'book')]",1,False
+397,6.763,touching,touching book,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+398,6.78,touching,touching book,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,False
+399,6.797,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,False
+400,6.814,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,False
+401,6.831,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,False
+402,6.848,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,False
+403,6.865,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,False
+404,6.882,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,False
+405,6.899,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,False
+406,6.917,none,none,,none,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,False
+407,6.934,none,none,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+408,6.951,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+409,6.968,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+410,6.985,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+411,7.002,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+412,7.019,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+413,7.036,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+414,7.053,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+415,7.07,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+416,7.087,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+417,7.104,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+418,7.121,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (4, 'cup'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+419,7.139,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+420,7.156,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (4, 'cup')]",2,True
+421,7.173,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (4, 'cup')]",2,True
+422,7.19,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+423,7.207,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+424,7.224,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+425,7.241,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+426,7.258,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+427,7.275,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+428,7.292,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+429,7.309,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+430,7.326,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+431,7.343,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+432,7.361,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+433,7.378,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+434,7.395,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+435,7.412,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+436,7.429,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+437,7.446,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+438,7.463,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+439,7.48,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+440,7.497,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+441,7.514,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+442,7.531,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+443,7.548,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+444,7.565,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+445,7.583,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+446,7.6,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+447,7.617,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+448,7.634,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+449,7.651,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+450,7.668,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+451,7.685,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+452,7.702,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+453,7.719,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+454,7.736,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+455,7.753,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+456,7.77,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+457,7.787,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+458,7.805,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+459,7.822,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+460,7.839,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+461,7.856,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+462,7.873,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+463,7.89,sitting,sitting,,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+464,7.907,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+465,7.924,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+466,7.941,using,using laptop,,touching book,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'book')]",2,True
+467,7.958,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+468,7.975,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+469,7.992,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+470,8.009,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+471,8.027,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+472,8.044,using,using laptop,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+473,8.061,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+474,8.078,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+475,8.095,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+476,8.112,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+477,8.129,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+478,8.146,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+479,8.163,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+480,8.18,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+481,8.197,sitting,sitting,,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+482,8.214,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+483,8.231,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+484,8.249,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+485,8.266,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+486,8.283,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+487,8.3,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+488,8.317,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+489,8.334,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+490,8.351,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+491,8.368,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+492,8.385,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+493,8.402,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+494,8.419,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+495,8.436,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+496,8.454,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+497,8.471,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+498,8.488,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+499,8.505,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+500,8.522,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+501,8.539,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+502,8.556,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+503,8.573,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+504,8.59,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+505,8.607,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+506,8.624,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",2,True
+507,8.641,using,using laptop,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+508,8.658,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+509,8.676,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+510,8.693,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+511,8.71,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",2,True
+512,8.727,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+513,8.744,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+514,8.761,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+515,8.778,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup')]",1,True
+516,8.795,sitting,sitting,,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+517,8.812,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+518,8.829,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+519,8.846,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+520,8.863,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+521,8.88,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+522,8.898,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+523,8.915,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+524,8.932,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+525,8.949,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+526,8.966,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+527,8.983,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+528,9.0,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+529,9.017,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+530,9.034,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+531,9.051,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+532,9.068,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+533,9.085,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+534,9.102,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+535,9.12,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+536,9.137,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+537,9.154,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+538,9.171,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+539,9.188,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+540,9.205,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+541,9.222,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+542,9.239,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+543,9.256,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+544,9.273,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+545,9.29,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+546,9.307,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+547,9.324,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+548,9.342,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+549,9.359,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+550,9.376,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+551,9.393,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+552,9.41,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+553,9.427,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+554,9.444,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+555,9.461,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+556,9.478,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+557,9.495,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+558,9.512,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+559,9.529,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+560,9.546,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+561,9.564,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+562,9.581,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+563,9.598,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+564,9.615,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+565,9.632,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+566,9.649,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+567,9.666,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+568,9.683,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+569,9.7,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+570,9.717,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+571,9.734,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+572,9.751,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+573,9.768,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+574,9.786,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+575,9.803,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+576,9.82,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+577,9.837,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+578,9.854,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+579,9.871,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+580,9.888,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+581,9.905,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+582,9.922,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+583,9.939,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+584,9.956,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+585,9.973,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+586,9.991,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+587,10.008,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+588,10.025,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+589,10.042,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+590,10.059,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+591,10.076,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+592,10.093,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+593,10.11,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+594,10.127,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+595,10.144,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+596,10.161,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+597,10.178,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+598,10.195,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+599,10.213,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+600,10.23,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+601,10.247,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+602,10.264,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+603,10.281,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+604,10.298,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+605,10.315,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+606,10.332,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+607,10.349,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+608,10.366,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+609,10.383,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+610,10.4,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+611,10.417,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+612,10.435,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+613,10.452,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+614,10.469,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+615,10.486,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+616,10.503,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+617,10.52,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+618,10.537,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+619,10.554,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+620,10.571,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+621,10.588,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+622,10.605,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+623,10.622,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+624,10.639,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+625,10.657,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+626,10.674,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+627,10.691,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+628,10.708,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+629,10.725,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop')]",1,True
+630,10.742,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop'), (11, 'book')]",1,True
+631,10.759,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop'), (11, 'book')]",1,True
+632,10.776,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop'), (11, 'book')]",1,True
+633,10.793,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop'), (11, 'book')]",1,True
+634,10.81,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (10, 'laptop'), (11, 'book')]",1,True
+635,10.827,using,using laptop,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+636,10.844,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+637,10.861,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+638,10.879,sitting,sitting,,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+639,10.896,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+640,10.913,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+641,10.93,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+642,10.947,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+643,10.964,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+644,10.981,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+645,10.998,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+646,11.015,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+647,11.032,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+648,11.049,using,using laptop,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+649,11.066,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+650,11.083,sitting,sitting,,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+651,11.101,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+652,11.118,using,using laptop,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+653,11.135,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+654,11.152,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+655,11.169,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+656,11.186,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+657,11.203,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+658,11.22,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+659,11.237,sitting,sitting,,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+660,11.254,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+661,11.271,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+662,11.288,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+663,11.305,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+664,11.323,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+665,11.34,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+666,11.357,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+667,11.374,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+668,11.391,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+669,11.408,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+670,11.425,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+671,11.442,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+672,11.459,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+673,11.476,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+674,11.493,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+675,11.51,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+676,11.528,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+677,11.545,using,using laptop,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+678,11.562,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+679,11.579,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+680,11.596,sitting,sitting,,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+681,11.613,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+682,11.63,using,using laptop,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+683,11.647,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+684,11.664,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+685,11.681,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+686,11.698,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+687,11.715,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+688,11.732,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+689,11.75,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop')]",1,True
+690,11.767,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop'), (12, 'cell phone')]",1,True
+691,11.784,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop'), (12, 'cell phone')]",1,True
+692,11.801,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop'), (12, 'cell phone')]",1,True
+693,11.818,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop'), (12, 'cell phone')]",1,True
+694,11.835,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop'), (12, 'cell phone')]",1,True
+695,11.852,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop'), (12, 'cell phone')]",1,True
+696,11.869,using,using laptop,laptop,using laptop,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (10, 'laptop'), (12, 'cell phone')]",1,True
+697,11.886,using,using laptop,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+698,11.903,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+699,11.92,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+700,11.937,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+701,11.954,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+702,11.972,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+703,11.989,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+704,12.006,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+705,12.023,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+706,12.04,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+707,12.057,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+708,12.074,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+709,12.091,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+710,12.108,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+711,12.125,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+712,12.142,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+713,12.159,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+714,12.176,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+715,12.194,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+716,12.211,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+717,12.228,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+718,12.245,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+719,12.262,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+720,12.279,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+721,12.296,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+722,12.313,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+723,12.33,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+724,12.347,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+725,12.364,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+726,12.381,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+727,12.398,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+728,12.416,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+729,12.433,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+730,12.45,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+731,12.467,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+732,12.484,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+733,12.501,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+734,12.518,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+735,12.535,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+736,12.552,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+737,12.569,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+738,12.586,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+739,12.603,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+740,12.62,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+741,12.638,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+742,12.655,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+743,12.672,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+744,12.689,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+745,12.706,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+746,12.723,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+747,12.74,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book')]",1,True
+748,12.757,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+749,12.774,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+750,12.791,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+751,12.808,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+752,12.825,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+753,12.842,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+754,12.86,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+755,12.877,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+756,12.894,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+757,12.911,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+758,12.928,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+759,12.945,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+760,12.962,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+761,12.979,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+762,12.996,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+763,13.013,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+764,13.03,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+765,13.047,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+766,13.065,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+767,13.082,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+768,13.099,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+769,13.116,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+770,13.133,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+771,13.15,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+772,13.167,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+773,13.184,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+774,13.201,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+775,13.218,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+776,13.235,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+777,13.252,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+778,13.269,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+779,13.287,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+780,13.304,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+781,13.321,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+782,13.338,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+783,13.355,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+784,13.372,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+785,13.389,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+786,13.406,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+787,13.423,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+788,13.44,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+789,13.457,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+790,13.474,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+791,13.491,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+792,13.509,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+793,13.526,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+794,13.543,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+795,13.56,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+796,13.577,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+797,13.594,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+798,13.611,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+799,13.628,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+800,13.645,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+801,13.662,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+802,13.679,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+803,13.696,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+804,13.713,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+805,13.731,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+806,13.748,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+807,13.765,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+808,13.782,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True
+809,13.799,sitting,sitting,,sitting,"[(2, 'cup'), (3, 'chair'), (6, 'chair'), (7, 'backpack'), (8, 'cup'), (11, 'book'), (12, 'cell phone')]",1,True

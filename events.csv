@@ -1,0 +1,33 @@
+label,start_s,end_s,dur_s
+sitting,0.0,2.066,2.07
+none,2.066,2.34,0.27
+sitting,2.34,2.784,0.44
+none,2.784,2.801,0.02
+sitting,2.801,3.108,0.31
+none,3.108,3.262,0.15
+sitting,3.262,4.355,1.09
+none,4.355,4.953,0.6
+sitting,4.953,6.285,1.33
+none,6.285,6.319,0.03
+sitting,6.319,6.353,0.03
+none,6.353,6.49,0.14
+reaching for book,6.49,6.524,0.03
+touching book,6.524,6.797,0.27
+none,6.797,6.951,0.15
+sitting,6.951,7.907,0.96
+using laptop,7.907,8.061,0.15
+sitting,8.061,8.214,0.15
+using laptop,8.214,8.658,0.44
+sitting,8.658,8.812,0.15
+using laptop,8.812,10.844,2.03
+sitting,10.844,10.896,0.05
+using laptop,10.896,11.066,0.17
+sitting,11.066,11.101,0.04
+using laptop,11.101,11.152,0.05
+sitting,11.152,11.254,0.1
+using laptop,11.254,11.562,0.31
+sitting,11.562,11.613,0.05
+using laptop,11.613,11.664,0.05
+sitting,11.664,11.681,0.02
+using laptop,11.681,11.903,0.22
+sitting,11.903,13.799,1.9
